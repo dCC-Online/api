@@ -1,8 +1,9 @@
 {
-  "movies": {
-    "The Dark Knight": {
+  "movies": [
+    {
+      "id": "The Dark Knight",
       "poster_url": "https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
       "release_date": "2008-07-18"
     }
-  }
+  ]
 }
