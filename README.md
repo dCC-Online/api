@@ -1,6 +1,6 @@
 # API
 
-db.json contains an object for serving data via My JSON Server. Properties in this object become endpoints that can be used to mimic 3rd party APIs.
+db.json contains an object for serving data via My JSON Server. Properties in this object become endpoints that can be used to mimic 3rd party APIs. These properties can be arrays of objects, whose id fields can then be used in detail endpoints.
 
 ## Movies
 This endpoint contains an array of supplemental data for the Movies API, used in the React tutorial series. The data is served through My JSON Server at the following endpoints:
